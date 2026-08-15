@@ -1,5 +1,7 @@
 # Unidad 1 — Arduino Uno R3
 
+**Autor:** Francisco J. Agurto
+
 Códigos de referencia del **Manual educativo de sistemas embebidos y
 plataformas de desarrollo**. Cada archivo corresponde al código que aparece en
 el encabezado de la práctica o del ejercicio dentro del manual impreso.
@@ -87,4 +89,4 @@ El resto de los sketches solo usa funciones del núcleo de Arduino.
 
 ---
 
-*Ingeniería Civil Electrónica · 2026*
+**Francisco J. Agurto** · Ingeniería Civil Electrónica
